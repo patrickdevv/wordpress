@@ -4,19 +4,20 @@ Curso Kubedev - Docker - Questão 5
 
 Para executar é necessário criar arquivo .env informando os valores para as variáveis
 
-WORDPRESS_DB_HOST 
+WORDPRESS_DB_HOST=db
 
-WORDPRESS_DB_USER 
+WORDPRESS_DB_USER=exampleuser
 
-WORDPRESS_DB_PASSWORD 
+WORDPRESS_DB_PASSWORD=examplepass
 
-WORDPRESS_DB_NAME 
+WORDPRESS_DB_NAME=exampledb
 
-MYSQL_DATABASE 
+MYSQL_DATABASE=exampledb
 
-MYSQL_USER 
+MYSQL_USER=exampleuser
 
-MYSQL_PASSWORD 
+MYSQL_PASSWORD=examplepass
+
 
 Uma vez tendo arquivo .env criado e com as variáveis, digitar na linha de comando 
 
