@@ -13,7 +13,9 @@ WORDPRESS_DB_PASSWORD
 WORDPRESS_DB_NAME 
 
 MYSQL_DATABASE 
+
 MYSQL_USER 
+
 MYSQL_PASSWORD 
 
 Uma vez tendo arquivo .env criado e com as variáveis, digitar na linha de comando 
